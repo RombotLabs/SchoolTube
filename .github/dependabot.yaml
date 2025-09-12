@@ -7,8 +7,8 @@ updates:
       time: "12:00"
     open-pull-requests-limit: 10
   
-  - package-ecosystem: "piplil"
-    directory: "/flask"
+  - package-ecosystem: "swift"
+    directory: "/"
     schedule:
       interval: daily
       time: "12:00"
